@@ -10,3 +10,4 @@
 - Селекторы
 - Routing
 
+Ссылка на github с исходным кодом: https://github.com/balansssss/react_shop 
